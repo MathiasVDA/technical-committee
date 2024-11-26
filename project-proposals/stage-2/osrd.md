@@ -57,7 +57,6 @@ All of it is available in english and most of it is also translated in french.
 
 ### Is the project REUSE compliant?
 
-*Does the project include licensing information according to the [REUSE standard](https://reuse.software)? Please provide the link to the README where the REUSE badge is shown.*
 - The project is REUSE compliant (with a CI check)
 - We did not add a badge to the readme
 - https://github.com/OpenRailAssociation/osrd/blob/68c3e1480c429a2cf8c7f8b7932769076761ac08/.github/workflows/build.yml#L1122-L1128
