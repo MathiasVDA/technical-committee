@@ -15,6 +15,20 @@ https://github.com/OpenRailAssociation/osrd/graphs/contributors
 
 *How high is the risk to a project should the most active people leave? This is called the [Contributor Absence Factor](https://chaoss.community/kb/metric-contributor-absence-factor/), sometimes also referred to as bus factor.*
 
+Computed with [bus-factor-explorer](https://github.com/JetBrains-Research/bus-factor-explorer).
+
+Repositories:
+- osrd (c98d3854cd1747a203f1ba6aa939901fbac72b75): **8**
+  - core: **2**
+  - editoast: **3**
+  - front: **4**
+  - gateway: **2**
+  - osrdyne: **1**
+- osrd-ui (3ef06474bae8b1c3d139a6b386c4c922eecfe8ef): **1**
+- osrd-chart (bbc948db28c417acb7714e3913a5eef148fed2e1): **1**
+
+-----
+
 Computed with [truck factor](https://github.com/HelgeCPH/truckfactor).
 
 The bus factor of https://github.com/OpenRailAssociation/osrd (68c3e1480c429a2cf8c7f8b7932769076761ac08) is: `4`
